@@ -1,0 +1,29 @@
+{
+  "name": "tpns-api",
+  "version": "0.1.0",
+  "description": "Tencent Push Notification Service server-side api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "AuberyZhao",
+  "license": "MIT",
+  "dependencies": {
+    "https-proxy-agent": "^5.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreagonmon/TpnsApi.git"
+  },
+  "keywords": [
+    "TPNS"
+  ],
+  "bugs": {
+    "url": "https://github.com/Dreagonmon/TpnsApi/issues"
+  },
+  "homepage": "https://github.com/Dreagonmon/TpnsApi#readme"
+}
