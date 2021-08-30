@@ -1,5 +1,6 @@
 # TpnsApi
 Tencent Push Notification Service server-side api
+腾讯移动推送服务端API
 
 ## Example
 ```javascript
